@@ -1,1 +1,20 @@
 /* Your external CSS styles go here */
+
+#pagebgcolor {
+    background-color: orange;
+  }
+
+  .BMP {
+    border: 2px solid powderblue;
+    margin: 50px;
+    padding: 30px;
+    width: 100%;
+  }
+  .Front{
+      color: red;
+  font-family: courier;
+  font-size: 160%;
+  }
+  p {
+    background-color: yellow;
+  }

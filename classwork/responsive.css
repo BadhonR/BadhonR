@@ -1,1 +1,21 @@
 /* Your responsive CSS styles go here */
+
+  @media only screen and (max-width: 1000px) {
+    body {
+      background-color: greenyellow;
+    }
+    @media (min-width: 700px) and (max-width: 800px){
+        p  {
+            color: orange;
+               } 
+               body {
+                background-color: black;
+              }       
+    }
+    @media only screen and (max-width: 500px) {
+        body {
+          background-color: deepskyblue;
+        }
+      }
+      
+  }
